@@ -63,6 +63,10 @@ or link with `script` in html files:
 or import to typescript
 ```ts
 import * as timeago from 'timeago.js';
+
+// or
+
+import timeago = require("timeago.js");
 ```
 
 **3. Use class `timeago`**
